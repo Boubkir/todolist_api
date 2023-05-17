@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-1$jg)=e+ya%o*qiuax0991_!&v*axrp4k*he1uc2b5swu(gj+*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['Boubkir.pythonanywhere.com']
+ALLOWED_HOSTS = ['Boubkir.pythonanywhere.com','localhost','127.0.0.1']
 
 
 # Application definition
